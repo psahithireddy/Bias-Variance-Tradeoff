@@ -1,4 +1,4 @@
-# MDL-Assignment-1
+# Bias-Variance Tradeoff
 Assignment of Machine Data and Learning  | Spring 2021
 
 ## Team
